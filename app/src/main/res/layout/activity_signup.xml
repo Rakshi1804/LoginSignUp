@@ -22,7 +22,7 @@
             android:paddingBottom="25dp"
             android:paddingLeft="20dp">
             <EditText
-                android:id="@+id/fullname"
+                android:id="@+id/signup_fullname"
                 android:layout_width="350dp"
                 android:layout_height="60dp"
                 android:layout_marginTop="30dp"
@@ -47,7 +47,7 @@
 
 
             <EditText
-                android:id="@+id/phoneno"
+                android:id="@+id/signup_phone"
                 android:layout_width="350dp"
                 android:layout_height="60dp"
                 android:layout_marginTop="30dp"
@@ -58,7 +58,7 @@
                 android:padding="8dp"
                 android:textColor="@color/grey" />
             <EditText
-                android:id="@+id/aadhar"
+                android:id="@+id/signup_aadhar"
                 android:layout_width="350dp"
                 android:layout_height="60dp"
                 android:layout_marginTop="30dp"
